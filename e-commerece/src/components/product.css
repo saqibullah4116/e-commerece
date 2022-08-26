@@ -1,0 +1,23 @@
+.product-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+    font-size: 1200px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* For single product */
+.home-single-product {
+    display: flex !important;
+  }
+  .productContainer {
+    display: flex !important;
+    padding: 20px;
+    flex-wrap: wrap;
+    margin-left: 25px;
+    /* justify-content: space-around; */
+  }
+  
+  
